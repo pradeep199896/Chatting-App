@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@700&display=swap');
+.signin-details {
+    width: 284px;
+    height: 37vh;
+    display: flex;
+    margin: 0 auto;
+    
+}
+.signin-details input{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px 20px ;
+    margin: 5px auto;
+    align-self:center;
+}
+.label{
+    margin: 0;
+}
+.Signin-button{
+    margin-right: 15px;
+    background-color:#f0c14b;
+    color:black;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-top: 15px;
+}
+.form{
+    border:1px solid lightgrey;
+    padding: 30px;
+    border-radius: 4px;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    font-family: 'Merienda', cursive;
+    font-size: larger;
+}
